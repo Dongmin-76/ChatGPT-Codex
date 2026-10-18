@@ -4,6 +4,14 @@
 
 **API 키는 포함되어 있지 않습니다.** 실행하는 사람이 자신의 OpenAI API 키를 설정해야 합니다. 설치와 화면 확인에는 키가 필요하지 않으며, 실제 분석·이미지 생성에는 API 사용료가 발생합니다. 기존 Python/Streamlit 버전 대신 현재의 React/TypeScript 웹앱을 담고 있습니다.
 
+## 결과물 샘플
+
+「달라지는 대한민국」을 주제로 만든 A4 세로 인포그래픽 샘플입니다. **이미지를 클릭하면 원본 크기(2480×3508px)로 볼 수 있습니다.**
+
+| 내 결과 · 따뜻한 일러스트 | AI 결과 · 블루 테크 |
+| :---: | :---: |
+| [![달라지는 대한민국 — 따뜻한 색감의 인물 일러스트로 표현한 A4 인포그래픽](docs/images/sample-user.png)](docs/images/sample-user.png) | [![달라지는 대한민국 — 파란색 기술 이미지로 표현한 A4 인포그래픽](docs/images/sample-ai.png)](docs/images/sample-ai.png) |
+
 ## 처음 사용하는 분: Windows에서 시작하기
 
 1. [Node.js 공식 다운로드](https://nodejs.org/en/download)에서 **24 LTS / Windows Installer**를 설치합니다. Python, Git, Codex는 필요하지 않습니다.
